@@ -1,1 +1,1 @@
-﻿# ShoppinglyX-E-commerce-website
+﻿# ShoppinglyX E-Commerce-Website
