@@ -52,12 +52,4 @@ ShoppinglyX is a comprehensive e-commerce platform designed to provide a seamles
 
 **Database**
 
-*MySQL/PostgreSQL*: Relational database management system for storing user, product, and order information.ility.
-
-
-  
-  │   ├── ...
-  
-  ├── README.md
-  
-  ├── ...
+*MySQL/PostgreSQL*: Relational database management system for storing user, product, and order information.ility
